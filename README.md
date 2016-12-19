@@ -1,6 +1,6 @@
 # StackContains
 
-Sample x64dbg plugin to scan the stack during tracing.
+Sample x64dbg plugin to scan the stack during tracing. Written as an answer to [this](http://reverseengineering.stackexchange.com/questions/14187/ollydbg-how-to-set-a-conditional-breakpoint-for-a-value-anywhere-in-the-stack?noredirect=1#comment21138_14187) question.
 
 ## Usage
 
